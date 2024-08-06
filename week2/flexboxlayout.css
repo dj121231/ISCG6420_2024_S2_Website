@@ -11,7 +11,7 @@
   height: 800px;
 }
 
-.column-middle {
+.column.middle {
   flex-grow: 5;
 }
 
